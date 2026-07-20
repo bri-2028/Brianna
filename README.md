@@ -27,4 +27,4 @@ I am eager to head into the field of cybersecurity and digital forensics.
 - Installed Ubuntu and dual boots with Windows 11
 - Home streaming service using JellyFin
 - SQL Labs
-- Digital Forensics Court Practicals
+- Incident Reports 
