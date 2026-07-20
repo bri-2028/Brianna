@@ -7,13 +7,19 @@ I am a current university student with a profound interest in digital forensics.
 My journey through schooling and life events led to have a passion pursuing cybersecurity. By developing my skills through my classes, clubs, and projects, 
 I am eager to head into the field of cybersecurity and digital forensics.
 
-##Skills 
-
-| Skill                                                  | Associated Project                        |
-|--------------------------------------------------------|-------------------------------------------|
-|Skill name here | Link to page---> <a href= "URL">name of the link|
-
 ##Tools 
+###Digital Forensics 
+- Autopsy
+- FTK Imager
+- Wireshark
+- Magnet Axiom
+- Forensic Explorer
+- HxD
+- VeraCrypt
+- 7-Zip
+###Home Lab Projects
+- Ubuntu
+- Jellyfin 
 
 ##Projects
 - Multiple virtual machines using VMWare Workstation
@@ -21,4 +27,3 @@ I am eager to head into the field of cybersecurity and digital forensics.
 - Home streaming service using JellyFin
 - SQL Labs
 - Digital Forensics Court Practicals
-- 
