@@ -16,9 +16,8 @@ I am eager to head into the field of cybersecurity and digital forensics.
 - Forensic Explorer
 - HxD
 - VeraCrypt
-- 7-Zip
-  
-### Home Lab Projects
+- 7-Zip  
+### Home Lab
 - Ubuntu
 - Jellyfin 
 
