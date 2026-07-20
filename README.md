@@ -2,13 +2,13 @@
 
 I am a current university student with a profound interest in digital forensics.
 
-##Objective 
+## Objective 
 
 My journey through schooling and life events led to have a passion pursuing cybersecurity. By developing my skills through my classes, clubs, and projects, 
 I am eager to head into the field of cybersecurity and digital forensics.
 
-##Tools 
-###Digital Forensics 
+## Tools 
+### Digital Forensics 
 - Autopsy
 - FTK Imager
 - Wireshark
@@ -17,11 +17,12 @@ I am eager to head into the field of cybersecurity and digital forensics.
 - HxD
 - VeraCrypt
 - 7-Zip
-###Home Lab Projects
+  
+### Home Lab Projects
 - Ubuntu
 - Jellyfin 
 
-##Projects
+## Projects
 - Multiple virtual machines using VMWare Workstation
 - Installed Ubuntu and dual boots with Windows 11
 - Home streaming service using JellyFin
